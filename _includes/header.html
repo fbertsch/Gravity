@@ -1,9 +1,15 @@
-
+{% if site.title-img %}
 <div class="wrapper">
-  <center> <a href="/index.html"><div class="site-title">   {{site.title}} </div></a></center>
+  <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{site.url}}/{{site.title-img}}" style="margin:5% 5%;width:20%;height:20%"/></a>
+</div>
+{% endif %}
+<div class="wrapper">
+  <center> 
+    <a href="/index.html"><div class="site-title">   {{site.title}} </div></a>
+  </center>
 </div>
 <div class="wrapper site-description">
-<center>  {{site.description}} </center>
+  <center>  {{site.description}} </center>
 </div>
 <div class="wrapper">
   <div class="trigger site-navigation">

@@ -14,6 +14,7 @@ url: "http://frankbertsch.com" # the base hostname & protocol for your site
 twitter_username: tokenprogrammer
 github_username: fbertsch
 paginate: 5
+title-img: "logo.png"
 
 gems: [jekyll-paginate, kramdown]
 # Build settings

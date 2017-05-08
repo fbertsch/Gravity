@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about 
 title : About
 permalink: /about/
 ---
@@ -16,14 +16,16 @@ In 2015 I took a job with [ISE](http://wwww.iseinc.biz) as a big data contractor
 
 In 2014 I interned at [Microsoft](http://www.microsoft.com), working with [SQL Azure Telemetry Data](http://dl.acm.org/citation.cfm?id=2806845&CFID=932480642&CFTOKEN=29323160). We delivered an easy-to-use Telemetry dataset to the academic community, meanwhile analyzing trends and usage in the data ourselves.
 
-That same year my wife and I had our second child - Sawyer.
+That same year my wife and I had our second child - Sawyer. Between grad school and babies, sleep was a distant dream (at least, when I had time to dream).
 
 2013 took me to SF Bay, where I interned at [Twitter](http://twitter.com). I did long-term analysis of hardware lifetimes, in an effort to find which products and vendors were the most reliable - for the price, of course.
 
-I decided to head to [grad school](https://en.wikipedia.org/wiki/List_of_National_Monuments_of_the_United_States) in 2012, where I studied in the Databases department at [UW-Madison](http://cs.wisc.edur)].
+I decided to head to [grad school](https://en.wikipedia.org/wiki/List_of_National_Monuments_of_the_United_States) in 2013, where I studied in the Databases department at [UW-Madison](http://cs.wisc.edur)].
 
 (( Magically transport to Madison, WI ))
 
 That year I graduated from [Xavier University](http://xavier.edu) with degrees in Physics and Computer Science.
+
+My proudest moment was when we had our daughter Cadence. No one ever believes me when I tell them that children can certainly be the light of your life. Nurture them and care for them, and they will be.
 
 In what seems like ancient history now, during undergrad I did web development and data analysis at [Coupsmart](http://www.coupsmart.com/) (How is that link not dead?).
